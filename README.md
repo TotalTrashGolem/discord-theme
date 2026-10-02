@@ -1,18 +1,20 @@
 # discord-theme
 
-Moja konfiguracja motywu [Discord+](https://plusinsta.github.io/discord-plus) (autor: PlusInsta) dla Vencorda / Vesktopa:
-własne tło, kolory i czcionka JetBrains Mono Nerd Font.
+My configuration of the [Discord+](https://plusinsta.github.io/discord-plus) theme (by PlusInsta) for Vencord / Vesktop:
+custom backdrop, colors and the JetBrains Mono Nerd Font.
 
-## Instalacja
+## Installation
 
-Vencord → Motywy → Motywy online, wklej:
+Vencord → Themes → Online Themes, paste:
 
 ```
 https://raw.githubusercontent.com/TotalTrashGolem/discord-theme/main/DiscordPlus.theme.css
 ```
 
-Albo pobierz `DiscordPlus.theme.css` do katalogu motywów.
+Or download `DiscordPlus.theme.css` into your themes folder.
 
-## Licencja
+The fonts require [JetBrains Mono Nerd Font](https://www.nerdfonts.com/font-downloads) to be installed; otherwise a generic monospace font is used.
 
-Plik motywu pochodzi z Discord+ (MIT, © Paulo Ødegård) — patrz `LICENSE`. Licencja nie obejmuje `bg.png`.
+## License
+
+The theme file comes from Discord+ (MIT, © Paulo Ødegård) — see `LICENSE`. The license does not cover `bg.png`.
