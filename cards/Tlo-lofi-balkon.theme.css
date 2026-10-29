@@ -1,0 +1,9 @@
+/**
+ * @name Tło: Lofi balkon
+ * @author TotalTrashGolem
+ * @description Lo-fi room with a balcony over the city at dusk. Use with DiscordPlus.theme.css; enable only one background card at a time.
+ * @source https://github.com/TotalTrashGolem/discord-theme
+*/
+.theme-dark {
+  --dplus-backdrop: url('https://raw.githubusercontent.com/TotalTrashGolem/discord-theme/main/tla/lofi-balkon.png');
+}
